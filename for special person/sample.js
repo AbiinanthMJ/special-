@@ -77,5 +77,5 @@ const voices = speechSynthesis.getVoices();
 const desiredVoice = voices[0]; // Choose the voice you want
 
 
-// "click",()=>{
+
 
